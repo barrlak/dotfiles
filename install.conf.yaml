@@ -4,6 +4,7 @@
 
 - link:
     ~/.config/nvim/init.lua: nvim/init.lua
+    ~/.config/nvim/lua/custom/plugins/vim-tmux-navigator.lua: nvim/vim-tmux-navigator.lua
     ~/.config/tmux/tmux.conf: tmux/tmux.conf
     ~/.config/tmuxai/config.yaml: tmux/config.yaml
     ~/.gitconfig: git-cfg/gitconfig
