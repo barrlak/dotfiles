@@ -84,6 +84,7 @@ plugins=(
   extract
   git
   sudo
+  vi-mode
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
